@@ -1,0 +1,13 @@
+#canvas{
+	background-color: grey;
+}
+html{
+	background-color: black;
+}
+span{
+	color: whitesmoke;
+}
+#canvas1{
+	background-color: grey;
+	border: 2px solid orange;
+}
